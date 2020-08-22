@@ -1,4 +1,4 @@
-package edd.Actividad2;
+package edd.unidad1.Actividad2;
 
 /**
  *

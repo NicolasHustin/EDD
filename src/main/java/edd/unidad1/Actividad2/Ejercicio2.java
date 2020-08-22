@@ -1,5 +1,5 @@
 
-package edd.Actividad2;
+package edd.unidad1.Actividad2;
 
 import java.util.Scanner;
 
@@ -38,7 +38,6 @@ public class Ejercicio2 {
         
         int calificacion = 1;
         
-        String arrayCalificacion[] = {"","UNO","DOS","TRES","CUATRO","CINCO"};
         long puntajeFinalCalc = Math.round(promedioPonderado * PP) + Math.round(pFinal * PF);
         if(puntajeFinalCalc >= 91){
             calificacion = 5;

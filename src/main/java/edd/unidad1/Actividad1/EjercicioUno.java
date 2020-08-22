@@ -1,5 +1,5 @@
 
-package edd.Actividad1;
+package edd.unidad1.Actividad1;
 
 import java.util.Scanner;
 

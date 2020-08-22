@@ -3,7 +3,7 @@ Se tiene una cadena de texto almacenada en un String, con una lista larga de pal
 repetidas). Escriba un programa Java que permita recorrer esta cadena de texto y generar en pantalla el
 listado de las 3 palabras que más veces se repite
 */
-package edd.Actividad2;
+package edd.unidad1.Actividad2;
 
 import java.util.Scanner;
 
